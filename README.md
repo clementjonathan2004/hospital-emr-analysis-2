@@ -46,7 +46,7 @@ The project followed these main steps:
 
 The interactive Power BI dashboard provides a visual overview of patient activity, financial class performance, revenue patterns, waiting time, and visit time.
 
-![Hospital EMR Analysis Dashboard](<Power BI/DashBoard Screenshot .png>)
+![Hospital EMR Analysis Dashboard](<Power BI/DashBoard Screenshot.png>)
 ## 6. Key Insights
 
 The analysis produced the following key findings:
